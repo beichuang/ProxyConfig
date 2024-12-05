@@ -200,12 +200,6 @@ DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,uts-api.itunes.apple.com
-# > BBC iPlayer
-USER-AGENT,BBCiPlayer*
-DOMAIN-SUFFIX,bbc.co.uk
-DOMAIN-SUFFIX,bbci.co.uk
-DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,uk-live
 # > Disney+
 USER-AGENT,Disney+*
 DOMAIN-SUFFIX,bamgrid.com
